@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+G:\Мой диск\course\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll

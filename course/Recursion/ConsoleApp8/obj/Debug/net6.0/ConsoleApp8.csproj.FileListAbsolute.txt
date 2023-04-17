@@ -1,0 +1,45 @@
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll
+G:\Мой диск\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+G:\Мой диск\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+G:\Мой диск\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+G:\Мой диск\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+G:\Мой диск\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+G:\Мой диск\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.exe
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.deps.json
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.runtimeconfig.json
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.dll
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\bin\Debug\net6.0\ConsoleApp8.pdb
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.dll
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\refint\ConsoleApp8.dll
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.pdb
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.genruntimeconfig.cache
+G:\Мой диск\course\ConsoleApp8\ConsoleApp8\obj\Debug\net6.0\ref\ConsoleApp8.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UudlC2AJVvDO/RExCpdkE5yiixppZ5aZlRB+EFSXgxO5hoWM0RP/A8YgpZzQUB33SlcDsTPI8x4/KxG3GudLQ==",
+  "success": true,
+  "projectFilePath": "G:\\Мой диск\\course\\ConsoleApp17\\ConsoleApp17\\ConsoleApp17.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\linq2db\\4.4.0\\linq2db.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\linq2db.postgresql\\4.4.0\\linq2db.postgresql.4.4.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\7.0.0\\npgsql.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

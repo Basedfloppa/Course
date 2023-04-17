@@ -1,0 +1,15 @@
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+G:\Мой диск\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+G:\Мой диск\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+G:\Мой диск\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+G:\Мой диск\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+G:\Мой диск\ConsoleApp12\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\refint\ConsoleApp12.dll
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+G:\Мой диск\ConsoleApp12\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
